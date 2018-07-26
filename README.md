@@ -1,10 +1,11 @@
 # AzureStack
 This is an example template for deploying VM-Series (BYOL edition, PAN-OS 8.1 or higher) on your AzureStack deployments. You can deploy the VM-Series using your own custom templates by using the following variables to refer to the VM-Series image:
+````
 Publisher: paloaltonetworks
 Offer: vmseries1
 SKU: byol
 Version: 8.1 (or latest)
-
+````
 
 Support: Community Supported
 --------
